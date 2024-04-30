@@ -1,7 +1,7 @@
 <h1>Digital Media Project</h1>
 
-<p>Write a short description of the project</p>
+<p>The project is about a clothing website revamp </p>
 
-<h2>Technologies Used</h2>
 
-<p>Brief description of the project</p>
+
+
